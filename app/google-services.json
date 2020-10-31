@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "418151977559",
+    "firebase_url": "https://beat-your-time-faa04.firebaseio.com",
+    "project_id": "beat-your-time-faa04",
+    "storage_bucket": "beat-your-time-faa04.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:418151977559:android:82bc9c6602914edc384912",
+        "android_client_info": {
+          "package_name": "com.example.cronometro"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "418151977559-hke1cv3vn1a61n9b3isv17s39ad2daht.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA-4jOM5tM3VbpprbHg_ajsSrfB9-5iT0Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "418151977559-hke1cv3vn1a61n9b3isv17s39ad2daht.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
